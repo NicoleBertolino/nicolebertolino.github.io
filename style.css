@@ -1,0 +1,38 @@
+.container{
+    background-color:  rgb(245, 241, 211);
+    margin: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo{
+    color: rgb(158, 158, 241);
+    text-align: center;
+}
+.imagem{
+    border-radius: 50%; 
+    border: 5px solid rgb(174, 172, 255);
+    display: block;
+    margin: auto;
+    }
+
+#nome{      
+    text-align: center;
+    }
+.subtitulo{
+    color: rgb(158, 158, 241);
+    }
+
+.lista {
+    background-color: #d1d1d1;
+    padding: 20px;
+    border-radius: 15px;
+    width: auto;
+    }
+
+.lista li{
+    margin: 8px 0px;
+}
+
+.lista li:hover {
+    color: #da6a5c;
+  }
